@@ -1,0 +1,17 @@
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.csprojAssemblyReference.cache
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.AssemblyInfo.cs
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.Tests.deps.json
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.Tests.runtimeconfig.json
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.Tests.runtimeconfig.dev.json
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.Tests.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.csproj.CopyComplete
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\bin\Debug\netcoreapp2.2\WebApi.Tests.pdb
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.dll
+C:\Users\rtiwari\source\repos\WebApi\WebApi.Tests\obj\Debug\netcoreapp2.2\WebApi.Tests.pdb
